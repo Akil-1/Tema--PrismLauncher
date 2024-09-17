@@ -1,0 +1,22 @@
+{
+    "colors": {
+        "AlternateBase": "#373737",
+        "Base": "#373737",
+        "BrightText": "#ffffff",
+        "Button": "#ff4d84",
+        "ButtonText": "#ffffff",
+        "Highlight": "#803060",
+        "HighlightedText": "#ffffff",
+        "Link": "#0000ff",
+        "Text": "#ffffff",
+        "ToolTipBase": "#e6539c",
+        "ToolTipText": "#ffffff",
+        "Window": "#ff4d84",
+        "WindowText": "#ffffff",
+        "fadeAmount": 40,
+        "fadeColor": "#373737"
+    },
+    "name": "Scarlett #fff",
+    "qssFilePath": "themeStyle.css",
+    "widgets": "Fusion"
+}
